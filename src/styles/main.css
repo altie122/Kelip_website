@@ -1,0 +1,8 @@
+:root,
+::backdrop{
+  --sl-color-accent-high: #59AB30;
+}
+:root[data-theme='light'],
+[data-theme='light'] ::backdrop {
+  --sl-color-accent: #59AB30;
+}
