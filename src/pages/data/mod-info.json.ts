@@ -6,11 +6,13 @@ export async function GET() {
       "image": "https://kelip.altie122.xyz/KelipOpenBeta.png",
       "links": [
         {
-          "CurseForge": "https://www.curseforge.com/minecraft/mc-mods/kelip",
+          "name": "CurseForge",
+          "link": "https://www.curseforge.com/minecraft/mc-mods/kelip",
           "image": "https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_46h.png"
         },
         {
-          "Modrinth": "https://modrinth.com/mod/kelip",
+          "name": "Modrinth",
+          "link": "https://modrinth.com/mod/kelip",
           "image": "https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_46h.png"
         }
       ],
