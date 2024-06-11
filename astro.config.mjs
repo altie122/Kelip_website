@@ -28,9 +28,9 @@ export default defineConfig({
 			{
 				label: 'Items',
 				items: [
-					{ label: 'Burning Coal', autogenerate: { directory: '/items/burning_coal/' } },
-					{ label: 'Copper Armor', autogenerate: { directory: '/items/copper_armor/' } },
-					{ label: 'Copper Tools', autogenerate: { directory: '/items/copper_tools/' } },
+					{ label: 'Burning Coal', autogenerate: { directory: '/items/burning_coal/' }, collapsed: true, },
+					{ label: 'Copper Armor', autogenerate: { directory: '/items/copper_armor/' }, collapsed: true, },
+					{ label: 'Copper Tools', autogenerate: { directory: '/items/copper_tools/' }, collapsed: true, },
 				],
 			},
 			]
