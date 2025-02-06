@@ -17,7 +17,8 @@ export async function GET() {
         }
       ],
       "wiki": "https://kelip.altie122.xyz",
-      "version": "1.0.0-b.1"
+      "version": "1.0.0-b.1",
+      "state": "unmaintained"
     })
   )
 }
